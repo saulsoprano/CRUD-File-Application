@@ -106,9 +106,6 @@ static void Main(string[] args)
 
     Console.WriteLine("Console Application Created By\n");
     Console.WriteLine("Bijay Basnet\n");
-    Console.WriteLine("Kripesh Prasad Bhattarai\n");
-    Console.WriteLine("Ritesh Shrestha\n");
-    Console.WriteLine("Umesh Dhakal");
     Console.WriteLine("------------------------\n");
     Console.WriteLine("------------------------\n");
 
